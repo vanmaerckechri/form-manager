@@ -1,0 +1,70 @@
+{
+    "error_pattern":
+    {
+        "fr": "Valeur de champ invalide!"
+    },
+    "error_captcha":
+    {
+        "fr": "Les captchas ne correspondent pas!"
+    },
+    "error_fileFormat":
+    {
+        "fr": "Format de fichier invalide!"
+    },
+    "error_fileMultiple":
+    {
+        "fr": "L'envoi multiple de fichiers n'est pas autorisé!"
+    },
+    "error_mail":
+    {
+        "fr": "E-mail invalide!"
+    },
+    "error_number":
+    {
+        "fr": "Veuillez entrer un nombre valide!"
+    },
+    "error_min":
+    {
+        "fr": "Le nombre doit être supérieur ou égal à %0%!"
+    },
+    "error_max":
+    {
+        "fr": "Le nombre doit être inférieur ou égal à %0%!"
+    },
+    "error_maxlength":
+    {
+        "fr": "Le nombre de caractères doit être inférieur ou égal à %0%!"
+    },
+    "error_minlength":
+    {
+        "fr": "Le nombre de caractères doit être supérieur ou égal à %0%!"
+    },
+    "error_phone":
+    {
+        "fr": "Numéro de téléphone invalide!"
+    },
+    "error_post":
+    {
+        "fr": "Le formulaire n'a pas été envoyé! Veuillez vérifier les champs."
+    },
+    "error_required":
+    {
+        "fr": "Ce champ est requis!"
+    },
+    "error_required_radio":
+    {
+        "fr": "Il est nécessaire de choisir parmi l'un des éléments ci-dessus!"
+    },
+    "error_title_already_exist":
+    {
+        "fr": "Le titre \"%0%\" existe déjà!"
+    },
+    "error_html":
+    {
+        "fr": "Veuillez ne pas modifier le code HTML!"
+    },
+    "success_post":
+    {
+        "fr": "Le formulaire a été envoyé avec succès!"
+    }
+}
